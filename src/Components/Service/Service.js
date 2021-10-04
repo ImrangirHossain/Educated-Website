@@ -6,6 +6,8 @@ const Service = (props) => {
 
     return (
         <div>
+            {/* single service card */}
+
             <div className="col text-start">
                     <div className="card  h-100">
                     <img height="225" src={image} className="card-img-top" alt="..."/>

@@ -4,11 +4,13 @@ import './Contact.css';
 const Contact = () => {
     return (
         <div>
-                <div className="contact-text">
+                <div>
                      <h1 className="text-start ps-3">Contact US</h1>
                 </div>
 
-              <div className="contact-details row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 mt-0 mx-2 mb-3">
+            {/* location and numbers for contact */}
+
+              <div className="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 mt-0 mx-2 mb-3">
               <div className="col location text-start text-center">
                     <div className="card  h-100">
                     <div className="card-body">
@@ -38,6 +40,7 @@ const Contact = () => {
                 </div>
               </div>
 
+                {/* contact form */}
                 <Form></Form>
 
             </div>

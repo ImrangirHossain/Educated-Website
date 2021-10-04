@@ -5,6 +5,7 @@ import './Home.css';
 const Home = () => {
     return (
         <div>
+            {/* home header section start*/}
             <div className="home-top-section">
                 <div>
                     <h1 className="text-white">START YOUR DREAM TODAY </h1>
@@ -14,9 +15,13 @@ const Home = () => {
                     <button className="btn btn-outline-light">TAKE A TOUR</button>
                 </div>              
             </div>
+
+            {/* show home services start */}
             <div className="pt-4">
             <Courses></Courses>
             </div>
+
+            {/* newsletter start */}
             <div>
                 <NewsLetter></NewsLetter>
             </div>

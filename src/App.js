@@ -36,8 +36,6 @@ function App() {
         </Switch>
         <Footer></Footer>
       </Router>
-      {/* <About></About>
-      <Services></Services> */}
     </div>
   );
 }
