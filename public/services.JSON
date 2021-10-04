@@ -1,0 +1,25 @@
+[
+    {"name":"Photoshop - Web Deisgn","rating":"4", "image":"./images/course1.jpg","discription":"Working in web design involves creating UI elements—icons, graphics. Adobe Photoshop provides the capabilities needed to make these design elements transition smoothly and easily to production.","price":"290","key":"1"},
+    
+    {"name":"Sketch - Mobile App","rating":"4.5", "image":"./images/course2.jpg","discription":"Sketch is a vector-based tool used for desktop and mobile UI design, mockups and prototypes, and today it's considered an industry standard. You can also edit and manipulate photos with Sketch.","price":"170","key":"2"},
+    
+    {"name":"Corel - Fashion Deisgn","rating":"4", "image":"./images/course3.jpg","discription":"CorelDRAW is the most popular vector design software in the professional computer-aided fashion design industry, with many fashion designers using it to draw their mannequins and produce their designs.","price":"290","key":"3"},
+    
+    {"name":"Web Development","rating":"5", "image":"./images/course4.jpg","discription":"Web development is the building and maintenance of websites; it's the work that happens behind the scenes to make a website look great, work fast and perform well with a seamless user experience.","price":"350","key":"4"}, 
+
+	{"name":"Data Analysis","rating":"3.5", "image":"./images/course5.jpg","discription":"Descriptive Analysis is the type of analysis of data that helps describe, show or summarize data points in a constructive way such that patterns might emerge that fulfill every condition of the data.","price":"190","key":"5"},
+    
+    {"name":"Online Security and Ethical Hacking","rating":"4", "image":"./images/course6.jpg","discription":"Ethical hacking involves an authorized attempt to gain unauthorized access to a computer system, application, or data. Carrying out an ethical hack involves duplicating strategies and actions of malicious attackers.","price":"320","key":"6"},
+    
+    {"name":"Accounting and Bookkeeping","rating":"4.5", "image":"./images/course7.jpg","discription":"A Bookkeeper is responsible for recording and maintaining a business' financial transactions, such as purchases, expenses, sales revenue. In accounting, the terms sales and, invoices, and payments. ","price":"250","key":"7"},
+    
+    {"name":"Graphic Design","rating":"4", "image":"./images/course8.jpg","discription":"Graphic design is a craft where professionals create visual content to communicate messages. By applying visual hierarchy and page layout techniques, designers use typography and pictures to meet users' specific needs","price":"180","key":"8"},
+	
+	{"name":"Photography","rating":"5", "image":"./images/course9.jpg","discription":"Photography is the art, application, and practice of creating durable images by recording light, either electronically by means of an image sensor, or chemically by means of a light-sensitive material such as photographic film.","price":"320","key":"9"},
+	
+	{"name":"Career Coaching","rating":"3.5", "image":"./images/course10.jpg","discription":"Career coaching is a type of personal coaching that helps people find greater fulfillment in their careers by establishing professional goals, creating a plan and overcoming obstacles that may be in the way.","price":"300","key":"10"}	,
+	
+	{"name":"User Testing","rating":"4.5", "image":"./images/course11.jpg","discription":"User testing is the process through which the interface and functions of a website, app, product, or service are tested by real users who perform specific tasks in realistic conditions.","price":"150","key":"11"},
+	
+	{"name":"Voice-Over Acting","rating":"4", "image":"./images/course12.jpg","discription":"Voice-over actors, sometimes called just voice actors, provide vocal talent for a project without their faces ever being seen. Many industries use the work of voice-over actors, including commercials, radio, movie trailers, sports broadcasts","price":"250","key":"12"}
+]

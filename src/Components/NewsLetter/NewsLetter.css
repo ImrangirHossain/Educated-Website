@@ -1,0 +1,7 @@
+.news-letter{
+    background-image: url('../../images/bg-news-letter.jpg');
+    height: 600px;
+}
+.news-letter-content{
+    padding-top: 400px;
+};

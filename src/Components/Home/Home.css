@@ -1,0 +1,7 @@
+.home-top-section{
+    background-image: url('../../images/1.jpg');
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+};
