@@ -5,8 +5,6 @@ const Form = () => {
         <div className="my-5">
             <h1>Leave a Message</h1>
 
-            {/* contact form  */}
-            
             <div className="form text-start">
                 <div className="row row-cols-lg-3 g-4 mx-3 my-2">
                     <div className="col">

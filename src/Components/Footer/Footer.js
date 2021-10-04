@@ -1,9 +1,11 @@
 import React from 'react';
-import './footer.css';
 const Footer = () => {
+    const footerStyle={
+        height: '100px',
+        backgroundColor: 'black'
+    }
     return (
-        <div className="footer">
-            {/* footer icon  */}
+        <div style={footerStyle}>
             <div className="text-muted">
             <i className="fab fa-facebook p-3"></i>
             <i className="fab fa-twitter p-3"></i>
@@ -11,7 +13,6 @@ const Footer = () => {
             <i className="fab fa-google-plus-g p-3"></i>
             </div>
 
-            {/* footer text  */}
             <p className="text-white"><small>Designer by <span className="text-warning">Imrangir</span> . All Rights Reserved.</small></p>
         </div>
     );
