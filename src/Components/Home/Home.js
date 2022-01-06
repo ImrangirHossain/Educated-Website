@@ -1,5 +1,6 @@
 import React from 'react';
 import Courses from '../Courses/Courses';
+import FutureWrapper from '../FutureWrapper/FutureWrapper';
 import NewsLetter from '../NewsLetter/NewsLetter';
   const Home = () => {
     const homeHeaderStyle= {
@@ -21,6 +22,10 @@ import NewsLetter from '../NewsLetter/NewsLetter';
                     <button className="btn btn-outline-light">TAKE A TOUR</button>
                 </div>              
             </div>
+
+           <div className="">
+               <FutureWrapper></FutureWrapper>
+               </div>     
 
             {/* show home services start */}
             <div className="pt-4">
